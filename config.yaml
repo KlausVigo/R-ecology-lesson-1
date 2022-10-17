@@ -85,3 +85,5 @@ profiles:
 
 url: 'https://preview.carpentries.org/R-ecology-lesson'
 workbench-beta: 'true'
+pre-beta-date: '2022-10-17'
+old-url: 'https://datacarpentry.github.io/R-ecology-lesson'
