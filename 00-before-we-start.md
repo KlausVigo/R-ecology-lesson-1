@@ -448,19 +448,19 @@ sessionInfo()
 #>  [9] ggplot2_3.3.6   tidyverse_1.3.2 knitr_1.40     
 #> 
 #> loaded via a namespace (and not attached):
-#>  [1] tidyselect_1.2.0    xfun_0.33           haven_2.5.1        
-#>  [4] gargle_1.2.1        colorspace_2.0-3    vctrs_0.4.2        
+#>  [1] tidyselect_1.2.0    xfun_0.34           haven_2.5.1        
+#>  [4] gargle_1.2.1        colorspace_2.0-3    vctrs_0.5.0        
 #>  [7] generics_0.1.3      blob_1.2.3          utf8_1.2.2         
 #> [10] rlang_1.0.6         pillar_1.8.1        glue_1.6.2         
 #> [13] withr_2.5.0         DBI_1.1.3           bit64_4.0.5        
 #> [16] dbplyr_2.2.1        modelr_0.1.9        readxl_1.4.1       
 #> [19] lifecycle_1.0.3     munsell_0.5.0       gtable_0.3.1       
 #> [22] cellranger_1.1.0    rvest_1.0.3         memoise_2.0.1      
-#> [25] evaluate_0.16       fastmap_1.1.0       tzdb_0.3.0         
+#> [25] evaluate_0.17       fastmap_1.1.0       tzdb_0.3.0         
 #> [28] fansi_1.0.3         highr_0.9           Rcpp_1.0.9         
 #> [31] broom_1.0.1         renv_0.16.0         scales_1.2.1       
 #> [34] backports_1.4.1     googlesheets4_1.0.1 cachem_1.0.6       
-#> [37] jsonlite_1.8.2      bit_4.0.4           fs_1.5.2           
+#> [37] jsonlite_1.8.3      bit_4.0.4           fs_1.5.2           
 #> [40] hms_1.1.2           stringi_1.7.8       grid_4.2.1         
 #> [43] cli_3.4.1           tools_4.2.1         magrittr_2.0.3     
 #> [46] crayon_1.5.2        pkgconfig_2.0.3     ellipsis_0.3.2     
