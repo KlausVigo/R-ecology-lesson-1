@@ -425,13 +425,13 @@ sessionInfo()
 ```
 
 ```{.output}
-#> R version 4.2.1 (2022-06-23)
+#> R version 4.2.2 Patched (2022-11-10 r83330)
 #> Platform: x86_64-pc-linux-gnu (64-bit)
-#> Running under: Ubuntu 20.04.5 LTS
+#> Running under: Ubuntu 22.04.1 LTS
 #> 
 #> Matrix products: default
-#> BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.9.0
-#> LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.9.0
+#> BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.10.0
+#> LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.10.0
 #> 
 #> locale:
 #>  [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
@@ -461,12 +461,12 @@ sessionInfo()
 #> [31] broom_1.0.1         renv_0.16.0         scales_1.2.1       
 #> [34] backports_1.4.1     googlesheets4_1.0.1 cachem_1.0.6       
 #> [37] jsonlite_1.8.2      bit_4.0.4           fs_1.5.2           
-#> [40] hms_1.1.2           stringi_1.7.8       grid_4.2.1         
-#> [43] cli_3.4.1           tools_4.2.1         magrittr_2.0.3     
+#> [40] hms_1.1.2           stringi_1.7.8       grid_4.2.2         
+#> [43] cli_3.4.1           tools_4.2.2         magrittr_2.0.3     
 #> [46] crayon_1.5.2        pkgconfig_2.0.3     ellipsis_0.3.2     
 #> [49] xml2_1.3.3          reprex_2.0.2        googledrive_2.0.0  
 #> [52] lubridate_1.8.0     assertthat_0.2.1    httr_1.4.4         
-#> [55] R6_2.5.1            compiler_4.2.1
+#> [55] R6_2.5.1            compiler_4.2.2
 ```
 
 

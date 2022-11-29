@@ -715,7 +715,7 @@ my_db
 ```
 
 ```{.output}
-#> src:  sqlite 3.39.4 [data/portal-database-output.sqlite]
+#> src:  sqlite 3.39.4 [/home/runner/work/R-ecology-lesson/R-ecology-lesson/site/built/data/portal-database-output.sqlite]
 #> tbls:
 ```
 
