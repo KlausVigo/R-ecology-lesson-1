@@ -13,5 +13,6 @@
 "episodes/05-r-and-databases.Rmd" "e8d2106c0f89be198b6dff30ca8896cc" "site/built/05-r-and-databases.md" "2022-11-29"
 "instructors/instructor-notes.md" "8e26b8094bbcf679728f9dd1707362ba" "site/built/instructor-notes.md" "2022-11-29"
 "learners/reference.md" "d64102b12c29b96d29ace337ac32746d" "site/built/reference.md" "2022-11-29"
+"learners/setup.md" "f81f62ee0b5d70f52b205ab65a5d0bbf" "site/built/setup.md" "2023-01-31"
 "profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2022-11-29"
 "renv/profiles/lesson-requirements/renv.lock" "6d56e4079f8105daac7d503de9fdfea3" "site/built/renv.lock" "2022-11-29"
