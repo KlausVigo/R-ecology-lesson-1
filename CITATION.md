@@ -40,7 +40,8 @@ You can cite this Data Carpentry lesson as follow:
 
 
 ```{.warning}
-Warning in file(con, "r"): cannot open file 'AUTHORS': No such file or directory
+Warning in file(con, "r"): cannot open file 'AUTHORS': No such file or
+directory
 ```
 
 ```{.error}
@@ -51,7 +52,8 @@ or as a BibTeX entry:
 
 
 ```{.warning}
-Warning in file(con, "r"): cannot open file 'AUTHORS': No such file or directory
+Warning in file(con, "r"): cannot open file 'AUTHORS': No such file or
+directory
 ```
 
 ```{.error}
